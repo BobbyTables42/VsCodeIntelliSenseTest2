@@ -1,0 +1,19 @@
+{
+    "configurations": [
+        {
+            "name": "test config",
+            "cStandard": "c11",
+            "cppStandard": "c++11",
+            "includePath": [
+                "${workspaceFolder}/NewProject/**"
+            ],
+            "browse": {
+                "path": [
+                    "${workspaceFolder}"
+                ],
+                "limitSymbolsToIncludedHeaders": true
+            }
+        }
+    ],
+    "version": 4
+}

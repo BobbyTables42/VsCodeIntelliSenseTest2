@@ -1,0 +1,14 @@
+{
+	"folders": [
+		{
+			"path": "../",
+		},
+	],
+
+	"settings": {
+		"C_Cpp.loggingLevel": "Debug",
+		"files.exclude": {
+			// include everything
+		}
+	}
+}
