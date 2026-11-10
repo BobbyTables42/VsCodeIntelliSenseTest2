@@ -1,5 +1,5 @@
 
-#include "inc/NewClass.h"
+#include "NewClass.h"
 #include <iostream>
 
 NewClass::NewClass()
